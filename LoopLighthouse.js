@@ -10,6 +10,5 @@ for ( let num = 100; num <= 200; num++ ) {
   }
   else{
     console.log(num);
-  num++;
   } 
 }
